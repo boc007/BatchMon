@@ -1,2 +1,2 @@
 # BatchMon
-Based on JOBctl Batch monitor website, developed by Flask&amp;Mysql
+A monitor website for batch process daily of AMLMAS system , that is developed by FLASK&MySQL
